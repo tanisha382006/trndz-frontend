@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../trndz-frontend"
+		},
+		{
+			"path": "../node_modules"
+		}
+	]
+}
